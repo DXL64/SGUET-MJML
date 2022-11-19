@@ -1,0 +1,115 @@
+<mjml>
+    <mj-head>
+        <mj-title><strong>[SGUET]</strong> Kết quả vòng Teamwork - Tuyển quân S11</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto"></mj-font>
+        <mj-attributes>
+            <mj-all font-family="Roboto ,Helvetica, sans-serif"></mj-all>
+            <mj-text font-weight="300" font-size="16px" color="#616161" line-height="24px"></mj-text>
+            <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+        <mj-style inline="inline">
+            .left {
+            background-color: #4d91eb;
+            margin-right: 5px;
+            }
+
+            .right {
+            background-color: #4d91eb;
+            margin-spacing: 10px;
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body>
+
+        <mj-section>
+            <mj-column width="100%">
+                <mj-image href="https://www.facebook.com/SupportGroupUET/" src="https://github.com/DXL64/SGUET-MJML/blob/main/MAIL%20K%E1%BA%BET%20QU%E1%BA%A2.png?raw=true"></mj-image>
+            </mj-column>
+        </mj-section>
+
+
+        <mj-section>
+            <mj-column width="100%">
+                <mj-divider border-width="2px" border-color="#616161" width="45%"></mj-divider>
+                <mj-text align="center" font-weight="900" padding="0px" font-size="22px"><strong>Kết quả vòng Teamwork</strong>
+                </mj-text>
+
+                <mj-text align="center" font-weight="900" padding="5px" font-size="22px"><strong>Tuyển quân S11 </strong>
+                </mj-text>
+                <mj-text align="center" font-weight="500" padding-top="15px" font-size="20px">Câu lạc bộ Hỗ trợ sinh
+                    viên - SGUET
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column width="100%">
+                <mj-text padding-top="20px">
+                    <p>Chào bạn,</p>
+
+                    <p>Lộ trình Tuyển quân của <strong>CLB Hỗ trợ Sinh viên Trường Đại học Công nghệ - SGUET</strong> đã chính thức khép lại. Chúng mình muốn gửi đến bạn lời <strong>cảm ơn chân thành</strong> vì đã dành thời gian tham gia Tuyển quân. Cảm ơn bạn vì <strong>sự cố gắng</strong>, giữ vững <strong>tinh thần, nhiệt huyết</strong> trong suốt ba vòng. Cảm ơn bạn vì những tình cảm, những sự ủng hộ đối với SGUET chúng mình. </p>
+                  
+                  </p>
+              Tuy nhiên, với những tiêu chí mà <strong>SGUET</strong> đề ra từ ban đầu, sự thể hiện của bạn chưa phù hợp với sứ mệnh và phương hướng hoạt động của CLB. Chúng mình biết rằng, bạn đã làm rất tốt trong thời gian vừa qua với mọi sự tâm huyết, những gì bạn thể hiện ở Vòng Teamwork khiến chúng mình rất ấn tượng. Để đưa ra được quyết định này, chúng mình đã phải cân nhắc rất kỹ càng. Chúng mình rất vui vì có cơ hội gặp gỡ bạn và tìm hiểu về kiến thức, kinh nghiệm cũng như kỹ năng của bạn. </p>
+
+</p>
+Tuy chưa thể là một thành viên S11, chúng mình vẫn luôn chào đón bạn ở các sự kiện chung của CLB. Mong rằng bạn sẽ luôn ủng hộ <strong>SGUET</strong> trong các hoạt động sắp tới. Cũng mong rằng với những kinh nghiệm mà bạn nhận được trong ba vòng tuyển quân, cùng với những kỹ năng sẵn có sẽ giúp bạn phát triển hơn nữa trong các hoạt động, các môi trường mới. Và, nếu bạn vẫn còn đam mê và nhiệt huyết với <strong>SGUET</strong>, hẹn bạn tại các đợt tuyển Cộng tác viên, hoặc tại mùa Tuyển quân tiếp theo.</p>
+
+                </mj-text>
+
+                <mj-text>
+                    <p>Thân gửi,</p>
+                    <p>
+                        <strong>
+                            <i>SGUET</i>
+                        </strong>
+                    </p>
+                </mj-text>
+
+
+                <mj-spacer height="50px"></mj-spacer>
+        <mj-section>
+
+            <mj-column width="100%">
+                <mj-divider border-width="0.5px" border-color="#616161" width="80%"></mj-divider>
+            </mj-column>
+
+            <mj-column width="20%" vertical-align="middle">
+                <mj-image href="https://www.facebook.com/SupportGroupUET" src="https://raw.githubusercontent.com/nyvietnam/mjml/main/logo-sguet.png">
+                </mj-image>
+            </mj-column>
+            <mj-column width="80%">
+                <mj-text font-size="15px">
+                    <strong>Câu lạc bộ Hỗ trợ sinh viên trường Đại học Công nghệ - SGUET</strong>
+                </mj-text>
+
+                <mj-text line-height="18px">
+                    <p>
+                        <strong>Email:</strong>
+                        <a href="mailto:lienhe.sguet@gmail.com">lienhe.sguet@gmail.com</a>
+                    </p>
+                    <p>
+                        <strong>Fanpage:</strong>
+                        <a href="facebook.com/SupportGroupUET">facebook.com/SupportGroupUET</a>
+                    </p>
+                    <p>
+                        <strong>Địa chỉ:</strong>
+                        144 Xuân Thủy, Dịch Vọng, Cầu Giấy, Hà Nội.
+                    </p>
+                    <p>
+                        <strong>Điện thoại:</strong>
+                        0932321211 - Chủ nhiệm Nguyễn Trung Hiếu
+                    </p>
+                </mj-text>
+
+                <mj-social align="center" icon-size="30px">
+                    <mj-social-element href="https://www.facebook.com/SupportGroupUET" name="facebook"></mj-social-element>
+                    <mj-social-element href="https://www.youtube.com/c/SGUET/" name="youtube"></mj-social-element>
+                    <mj-social-element href="https://www.instagram.com/sguet_cfs/" name="instagram"></mj-social-element>
+                    <mj-social-element href="mailto:lienhe.sguet@gmail.com" name="google"></mj-social-element>
+                </mj-social>
+            </mj-column>
+        </mj-section>
+
+    </mj-body>
+</mjml>
